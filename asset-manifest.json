@@ -1,6 +1,7 @@
 {
   "files": {
     "main.css": "/confegure.com/static/css/main.39a39c2c.chunk.css",
+<<<<<<< HEAD
     "main.js": "/confegure.com/static/js/main.beaaff01.chunk.js",
     "main.js.map": "/confegure.com/static/js/main.beaaff01.chunk.js.map",
     "runtime-main.js": "/confegure.com/static/js/runtime-main.f7215f5d.js",
@@ -10,6 +11,17 @@
     "index.html": "/confegure.com/index.html",
     "static/css/main.39a39c2c.chunk.css.map": "/confegure.com/static/css/main.39a39c2c.chunk.css.map",
     "static/js/2.7fff9754.chunk.js.LICENSE.txt": "/confegure.com/static/js/2.7fff9754.chunk.js.LICENSE.txt",
+=======
+    "main.js": "/confegure.com/static/js/main.713e4246.chunk.js",
+    "main.js.map": "/confegure.com/static/js/main.713e4246.chunk.js.map",
+    "runtime-main.js": "/confegure.com/static/js/runtime-main.f7215f5d.js",
+    "runtime-main.js.map": "/confegure.com/static/js/runtime-main.f7215f5d.js.map",
+    "static/js/2.50b1c55f.chunk.js": "/confegure.com/static/js/2.50b1c55f.chunk.js",
+    "static/js/2.50b1c55f.chunk.js.map": "/confegure.com/static/js/2.50b1c55f.chunk.js.map",
+    "index.html": "/confegure.com/index.html",
+    "static/css/main.39a39c2c.chunk.css.map": "/confegure.com/static/css/main.39a39c2c.chunk.css.map",
+    "static/js/2.50b1c55f.chunk.js.LICENSE.txt": "/confegure.com/static/js/2.50b1c55f.chunk.js.LICENSE.txt",
+>>>>>>> bc8b473... sec
     "static/media/ai.e90ae24a.png": "/confegure.com/static/media/ai.e90ae24a.png",
     "static/media/alan.3811e796.png": "/confegure.com/static/media/alan.3811e796.png",
     "static/media/app.a0a2f10b.png": "/confegure.com/static/media/app.a0a2f10b.png",
@@ -48,8 +60,14 @@
   },
   "entrypoints": [
     "static/js/runtime-main.f7215f5d.js",
+<<<<<<< HEAD
     "static/js/2.7fff9754.chunk.js",
     "static/css/main.39a39c2c.chunk.css",
     "static/js/main.beaaff01.chunk.js"
+=======
+    "static/js/2.50b1c55f.chunk.js",
+    "static/css/main.39a39c2c.chunk.css",
+    "static/js/main.713e4246.chunk.js"
+>>>>>>> bc8b473... sec
   ]
 }
